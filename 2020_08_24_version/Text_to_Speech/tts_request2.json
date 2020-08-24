@@ -1,0 +1,13 @@
+{
+  "input": {
+    "text": "안녕하세요. 좋은 하루입니다."
+  },
+  "voice": {
+    "languageCode": "ko-KR",
+    "name": "ko-KR-Standard-A",
+    "ssmlGender": "FEMALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3"
+  }
+}

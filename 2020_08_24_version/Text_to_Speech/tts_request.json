@@ -1,0 +1,13 @@
+{
+  "input": {
+    "text": "how old is the Brooklyn Bridge"
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-Standard-B",
+    "ssmlGender": "MALE"
+  },
+  "audioConfig": {
+    "audioEncoding": "MP3"
+  }
+}
